@@ -34,7 +34,7 @@ function calculateTotal(cart, req) {
   return total;
 }
 
-const mongourl = "Enter your MongoDB URL";
+const mongourl = process.env.MONGOURL;
 const conneectdb = async () => {
   await mongoose.connect(mongourl);
   console.log('Connectedd to MongoDB');
