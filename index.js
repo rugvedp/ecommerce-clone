@@ -274,6 +274,6 @@ app.get('/payment', function (req, res) {
   res.render('payment');
 })
 
-app.listen(process.env.PORT(), () => {
+app.listen(process.env.PORT, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
