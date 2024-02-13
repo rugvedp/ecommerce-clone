@@ -58,6 +58,3 @@ You can also try out the hosted version of this project [here](https://rugvedp-e
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
