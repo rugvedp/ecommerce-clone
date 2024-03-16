@@ -17,7 +17,6 @@ This project is an eCommerce clone built using Express.js for the backend, Mongo
 
 ![Product Page](https://media.discordapp.net/attachments/952182051564556348/1207019057774207066/image.png?ex=65de1f18&is=65cbaa18&hm=d8b4303a7ed4e962d5772fd9c20be4429c4cf64d439e47369cf7252df5a8c635&=&format=webp&quality=lossless&width=722&height=468) ![Product Page Mobile](https://media.discordapp.net/attachments/952182051564556348/1207019416081014874/WhatsApp_Image_2024-02-13_at_11.13.21_PM.jpeg?ex=65de1f6e&is=65cbaa6e&hm=1c86e710b7cff17d08be065423fbd9e94147efeb3768e5a947c3b32857654535&=&format=webp&width=226&height=468)
 
-
 ## Technologies Used
 
 - **Express.js:** Used for building the backend server and handling HTTP requests.
@@ -36,17 +35,16 @@ This project is an eCommerce clone built using Express.js for the backend, Mongo
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/rugvedp/ecommerce-clone.git
+   git clone https://github.com/rugvedp/ecommerce-clone.git
 
 2. Navigate into the project directory:
-cd ecommerce-clone 
+   cd ecommerce-clone 
 
 3. Install dependencies:
-npm install
+   npm install
 
 4. Start the server:
-node .
-
+   node .
 
 5. Access the application in your web browser at `http://localhost:3000`.
 
@@ -54,7 +52,10 @@ node .
 
 You can also try out the hosted version of this project [here](https://rugvedp-ecommerce.cyclic.app).
 
+### T-Shirts Information
+
+If you want to download t-shirts information, download the `tees.json` file and import it into MongoDB.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
