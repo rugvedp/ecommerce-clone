@@ -13,7 +13,7 @@ This project is an eCommerce clone built using Express.js for the backend, Mongo
 
 ## Screenshots
 
-![Products Page](https://media.discordapp.net/attachments/952182051564556348/1207018134825861191/image.png?ex=65de1e3c&is=65cba93c&hm=fc5878635aa0d061095b17b4c6a45c5b37400e1bee1051f6dba262c8f90785bc&=&format=webp&quality=lossless&width=682&height=468) ![Products Page Mobile](https://media.discordapp.net/attachments/952182051564556348/1207018621570650182/WhatsApp_Image_2024-02-13_at_11.10.17_PM.jpeg?ex=65de1eb0&is=65cba9b0&hm=8c4ea4b8a2c85213200ab22b059995c291a51be59ec3438c40bdd1b9c565e468&=&format=webp&width=240&height=467)
+![Products Page](https://i.ibb.co/0Qwz5h6/image.png) ![Products Page Mobile](https://media.discordapp.net/attachments/952182051564556348/1207018621570650182/WhatsApp_Image_2024-02-13_at_11.10.17_PM.jpeg?ex=65de1eb0&is=65cba9b0&hm=8c4ea4b8a2c85213200ab22b059995c291a51be59ec3438c40bdd1b9c565e468&=&format=webp&width=240&height=467)
 
 ![Product Page](https://media.discordapp.net/attachments/952182051564556348/1207019057774207066/image.png?ex=65de1f18&is=65cbaa18&hm=d8b4303a7ed4e962d5772fd9c20be4429c4cf64d439e47369cf7252df5a8c635&=&format=webp&quality=lossless&width=722&height=468) ![Product Page Mobile](https://media.discordapp.net/attachments/952182051564556348/1207019416081014874/WhatsApp_Image_2024-02-13_at_11.13.21_PM.jpeg?ex=65de1f6e&is=65cbaa6e&hm=1c86e710b7cff17d08be065423fbd9e94147efeb3768e5a947c3b32857654535&=&format=webp&width=226&height=468)
 
